@@ -11,9 +11,8 @@
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Bhismydv)
 
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
-" target="_blank"><img src="https://youtu.be/korTbeBh2v4" 
-alt="SIGNATURE PAD" width="240" height="180" border="10" /></a>
+<a href="https://youtu.be/korTbeBh2v4
+" target="_blank"></a>
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
 " target="_blank"><img src="https://youtu.be/YsvBa4uRf2w" 
