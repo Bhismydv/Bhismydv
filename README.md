@@ -11,11 +11,9 @@
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Bhismydv)
 
 
-<a href="https://youtu.be/korTbeBh2v4
-" target="_blank"></a>
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
-" target="_blank"><img src="https://youtu.be/YsvBa4uRf2w" 
+<a href="https://www.youtube.com/embed/korTbeBh2v4
+" target="_blank"><img src="https://i9.ytimg.com/vi_webp/korTbeBh2v4/mqdefault.webp?time=1613207700000&sqp=CJSxnoEG&rs=AOn4CLC9waJOpD1YItFI2FtclHWkdZUkjQ" 
 alt="TIC-TAC-TOE Game" width="240" height="180" border="10" /></a>
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
