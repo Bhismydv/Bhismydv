@@ -1,7 +1,6 @@
 ### Hi there 👋, I' M Bhism Pratap Yadav
 #### I am Designer and Developer
 
-- 🌱 I’m currently learning MATLAB 
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhismydv)](https://github.com/anuraghazra/github-readme-stats)
