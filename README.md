@@ -7,7 +7,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bhismydv&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Bhismydv)
+[![Bhismydv's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Bhismydv)](https://github.com/Bhismydv/github-readme-activity-graph)
 
 - Youtube Works
 
