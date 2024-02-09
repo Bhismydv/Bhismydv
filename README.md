@@ -1,5 +1,4 @@
 ### Hi there 👋, I' M Bhism Pratap Yadav
-#### I am Designer and Developer
 
 
 
