@@ -2,7 +2,7 @@
 <h3 align="center">Flutter Mobile App Dev</h3>
 <img align="right" alt="coding" width="350" src="https://github.com/Bhismydv/Hello-World/blob/master/promo.png?raw=true">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Bhismydv&label=Profile%20views&color=0e75b6&style=flat" alt="Bhismydv" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Bhismydv&label=Profile%20views&color=0e75b6&style=flat" alt="Bhismydv" /> </p><br/>
 
 - 🔭 I’m currently working on [KGN INFOTECH](https://www.kgninfotech.com/)
 - 📫 How to reach me **bhismydv2912@gmail.com**
