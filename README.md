@@ -8,12 +8,15 @@
 - 📫 How to reach me **bhismydv2912@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"><br/>
+<p align="left">
 <a href="https://www.linkedin.com/in/bhism-pratap-yadav-38371a161/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bhism-pratap-yadav-38371a161/" height="30" width="40" /></a>
+</p><br/>
+
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" style="margin-right: 20px;">
+    <img src="https://github-profile-trophy.vercel.app/?username=Bhismydv" alt="Bhismydv" />
+  </a>
 </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Bhismydv" alt="Bhismydv" /></a> </p>
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bhismydv&show_icons=true&locale=en&layout=compact" alt="Bhismydv" /></p>
 
